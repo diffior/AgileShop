@@ -1,0 +1,12 @@
+{
+  "name": "agileshop",
+  "version": "1.0.0",
+  "description": "This project is a microservice-based e-commerce backend system implemented using TypeScript, Node.js, and Express. It aims to provide a scalable and modular architecture for handling various e-commerce operations. Microservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
